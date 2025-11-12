@@ -1,4 +1,8 @@
+# React_Quick_Start_1_Creating_and_Nesting_Components
+
 # React + TypeScript + Vite
+
+https://www.youtube.com/watch?v=ReRbKCLDpTg&t=27s
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

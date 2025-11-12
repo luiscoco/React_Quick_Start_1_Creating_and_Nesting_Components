@@ -1,6 +1,5 @@
 # React_Quick_Start_1_Creating_and_Nesting_Components
-
-# React + TypeScript + Vite
+# React 19.2 + TypeScript + Vite
 
 https://www.youtube.com/watch?v=ReRbKCLDpTg&t=27s
 
